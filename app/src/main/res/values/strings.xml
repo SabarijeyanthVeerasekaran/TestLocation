@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_setting_geo_fence">Map</string>
+</resources>
